@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.positive-button,
+.negative-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.positive-button {
+    background-color: black;
+    color: #ffffff
+}
+
+.negative-button {
+    background-color: yellow;
+
+}
